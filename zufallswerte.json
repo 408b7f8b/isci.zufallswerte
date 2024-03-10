@@ -1,0 +1,39 @@
+{
+  "Typidentifikation": "isci.zufallswerte",
+  "Dateneinträge": [
+    {
+      "Identifikation": "ANWENDUNG.zufallswerte.exampleInt32",
+      "type": "Int32",
+      "istListe": false,
+      "listeDimensionen": 0,
+      "parentEintrag": null,
+      "Einheit": -1,
+      "Wert": 0
+    },
+    {
+      "Identifikation": "ANWENDUNG.zufallswerte.exampleString",
+      "type": "String",
+      "istListe": false,
+      "listeDimensionen": 0,
+      "parentEintrag": null,
+      "Einheit": -1,
+      "Wert": "hallo"
+    },
+    {
+      "Identifikation": "ANWENDUNG.zufallswerte.exampleDouble",
+      "type": "Double",
+      "istListe": false,
+      "listeDimensionen": 0,
+      "parentEintrag": null,
+      "Einheit": -1,
+      "Wert": 0.0
+    }
+  ],
+  "Ereignisse": [],
+  "Funktionen": [],
+  "Automatisierungsressource": "",
+  "Identifikation": "zufallswerte",
+  "Name": "Modulbasis Ressource zufallswerte",
+  "Beschreibung": null,
+  "Typ": "isci.Beschreibung.Modul"
+}
